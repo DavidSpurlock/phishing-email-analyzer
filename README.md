@@ -10,6 +10,6 @@ A Python-based tool to analyze phishing emails by extracting headers, analyzing 
 ## Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/yourusername/phishing-email-analyzer.git
+git clone https://github.com/davidspurlock/phishing-email-analyzer.git
 cd phishing-email-analyzer
 pip install -r requirements.txt
